@@ -2,6 +2,7 @@
 Scott Damoo - 
 Maximo Hardaker - 
 Emmanuel Phillips - 230355585 - ec23279@qmul.ac.uk
+Nefertiti Gansallo-230324248-ec23256@qmul.ac.uk
 
 Scenario chosen: Eurostar2030
 Specified location to run script: MySQL
